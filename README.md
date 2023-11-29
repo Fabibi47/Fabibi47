@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Fabibi47
 - 👀 I’m interested in Video Games playing and creation.
-- 🌱 I’m currently learning python and C#
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on an online chess game with friends
